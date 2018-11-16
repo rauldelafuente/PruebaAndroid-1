@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MySketches</string>
+    <string name="access_gallery">You don\'t have permission to access gallery</string>
+    <string name="take_photo">You don\'t have enough permissions to take a photo</string>
+</resources>
